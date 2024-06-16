@@ -2,7 +2,6 @@
 
 # Urban Grocers (Sprint 4)
 
-Olá, pessoal! Durante meu trabalho no bootcamp de QA da TripleTen, tive a chance de mergulhar em diversos projetos interessantes, e um deles que merece destaque é o Urban Grocers. Vamos dar uma olhada mais de perto neste projeto incrível!
 O Urban Grocers é um aplicativo de pedidos de comida que oferece uma variedade de opções aos usuários, incluindo menus temáticos, pratos pré-definidos e a capacidade de criar kits personalizados. Além disso, o aplicativo fornece serviços de entrega para maior comodidade dos clientes. Em resumo, o Urban Grocers oferece uma experiência conveniente e personalizada para pedidos de comida.
 
 ## Teste da API do Urban Grocers
